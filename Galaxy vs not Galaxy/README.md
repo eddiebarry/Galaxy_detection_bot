@@ -27,9 +27,12 @@ chmod 700 retrain_on_data.sh
 
 ### Test the retrained model ###
 
+##### To test on custom images, just change the image name on the last line of the "check_label.sh" script #####
+##### ie, change "test4.jpeg" on the 3rd line to image name #####
+
 ```console
-chmod 700 retrain_on_data.sh
-./retrain_on_data.sh
+chmod 700 check_label.sh
+./check_label.sh
 ```
 
 
