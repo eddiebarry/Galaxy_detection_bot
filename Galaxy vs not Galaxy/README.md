@@ -5,6 +5,11 @@ HOW TO RETRAIN
 ==============
 
 
+## RUN Fast Retrain.ipynb in JuPyter ##
+
+# OR #
+
+
 ### Download Datasets ###
 1. Download the cifar_10 [image dataset](https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz)
 2. Download GalaxyZoo galaxy [dataset](https://www.kaggle.com/c/3175/download-all)
