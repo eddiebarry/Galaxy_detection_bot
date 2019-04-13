@@ -18,9 +18,20 @@ HOW TO RETRAIN
 
 ### Run the retrain script ###
 
-```
+#### Navigate to the directory in terminal and run :###
+
+```console
+chmod 700 retrain_on_data.sh
 ./retrain_on_data.sh
 ```
+
+### Test the retrained model ###
+
+```console
+chmod 700 retrain_on_data.sh
+./retrain_on_data.sh
+```
+
 
 
 
